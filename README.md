@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Java-Echo&show_icons=true&theme=algolia)
 - 🔭 I’m currently working on nowhere. ┓( ´∀` )┏
-- 🌱 I’m currently learning photography.
+- 🌱 I’m currently learning database.
 - 👯 I’m looking to collaborate on anything interesting.
 - 🤔 I’m looking for help with coding and debugging !!
 - 💬 Ask me about anything you would like to.
 - 📫 How to reach me: Wow, I am always there, by your side.
-- ⚡ Fun fact: Maybe about the top used languages below? Haha!
+- ⚡ Fun fact: may be the game!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Echo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
