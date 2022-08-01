@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Java-Echo&show_icons=true&theme=algolia)
 - 🔭 I’m currently working on Huawei2012 Lab
-- 🌱 I’m currently learning database.
+- 🌱 I’m currently learning Software Engineering at Zhejiang University.
 - 👯 I’m looking to collaborate on anything interesting.
 - 🤔 I’m looking for help with coding and debugging !!
 - 💬 Ask me about anything you would like to.
